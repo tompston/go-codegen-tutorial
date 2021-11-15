@@ -1,0 +1,5 @@
+// This text file is generated
+
+Today is Friday
+
+Year is 2021

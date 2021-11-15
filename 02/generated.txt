@@ -1,0 +1,5 @@
+// This text file is generated
+
+Today is Friday
+
+This is a new variable -> ConcatenatedFriday

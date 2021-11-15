@@ -1,0 +1,7 @@
+// This text file is generated
+
+Today is Friday
+
+This is a new variable -> ConcatenatedFriday
+
+This variable is changed by the imported function -> CONCATENATEDFRIDAY
